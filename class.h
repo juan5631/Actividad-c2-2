@@ -25,7 +25,7 @@ d=da-dn;
 	da=da+30;
 	d=da-dn;
 }
-if(ma>mn)
+if(ma<mn)
 {
 m=ma-mn;
 }else{
