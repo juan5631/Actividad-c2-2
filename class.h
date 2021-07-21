@@ -1,18 +1,25 @@
 class persona{
 	private:
 		int aa,ma,da,an,mn,dn,a,m,d;
-		string nombre, apellido;
-		float p,h,MaC;
+		string nombre, apellido,cedula;
+		float h,MaC,p=0;
 		public:
 	void ingresar(){
-		cout<<"ingrese el nombre de la persona";
-		getline(cin,nombre);
-		cout<<"ingrese el apellido de la persona";
-		getline(cin,apellido);
+	cout<<"Escriba sus nombres:  ";getline(cin,nombre);//Luis Ariel
+			cout<<"Escriba sus apellidos:  ";getline(cin,apellido);
+			cout<<"Digite su peso: ";cin>>p;
+			cout<<"Digite su estatura: ";cin>>h;
 	}
 	void mostrar(){
-		cout<<nombre;
-		cout<<apellido;
+	    cout<<"-----------------------------------------------------"<<endl;	
+		cout<<"  |APELLIDOS"<<"\t";
+		cout<<"  |PESO"<<"\t";
+		cout<<"  |ESTATURA"<<"\t";
+		cout<<endl;
+
+		cout<<"  |"<<apellido<<"\t";
+		cout<<"|"<<p<<"\t";
+		cout<<"|"<<h<<"\t";
 	}
 	void ed(){
 		cout<<"Ingrese la fecha actual en formato (ano mes dia)"; cin>>aa>>ma>>da;
@@ -40,8 +47,6 @@ cout<< nombre << apellido <<" tiene "<< a << " anos "<< m << " meses " << d << "
 	}
 	void mc(){
 		cout<<"3.-Mostrar el indice corporal \n";
-			cout<<"ingrese el peso: "; cin>>p;
-cout<<"Ingrese la altura: "; cin>>h;
 MaC = p/(h*h); 
 	cout<< "Tu indice de masa corporal es: " << MaC << endl;
     if (MaC<20)
@@ -64,7 +69,12 @@ MaC = p/(h*h);
 		}
 
 	}
+	void guar(){
+ }
+  void rym()
+ {
+ 	
+  }	
 	
 		
 };
-
