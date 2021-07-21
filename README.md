@@ -75,3 +75,12 @@ Dentro de esta funcion se encuentra todo el codigo que se realizo junto con los 
                                                     void mc()
 Dentro de esta funcion se encuentra todo el codigo que se realizo junto con los contribuyentes, este codigo sirve para el calculo del indice de la masa corporal de una persona.
 <a href="https://ibb.co/1nyP8vz"><img src="https://i.ibb.co/MhwtM2B/Captura4.png" alt="Captura4" border="0"></a>
+# Ejecución
+Al ejecutar el programa se nos abrira el siguiente menu con varias opciones, dependiendo la opcion que desee va a colocar el numero cuando le pida que coloque el numero.
+<a href="https://ibb.co/h22Ryg3"><img src="https://i.ibb.co/nQQsbwx/Captura5.png" alt="Captura5" border="0"></a>
+Se escoge la primera opcion porque es donde se va a colocar los datos de la persona y estos datos quedaran guardados en varibles, y ellos nos ayudaran en las siguientes opciones a continuacion el codigo en ejecución.
+<a href="https://ibb.co/YRmRnqb"><img src="https://i.ibb.co/yftfvbV/Captura6.png" alt="Captura6" border="0"></a>
+Se escoge la segunda opcion para poder saber la edad de la persona colocando la fecha actual en formato (aa-mm-dd) y asi mismo con le fecha de su nacimiento en el mismo formato (aa-mm-dd), a continuacion el codigo en ejecucion.
+<a href="https://ibb.co/7Y5WJF1"><img src="https://i.ibb.co/vwGPx8j/Captura7.png" alt="Captura7" border="0"></a>
+Se le coloca la opcion 1 para que se repita el programa y se queden guardadas los valores de peso y altura y en el menu se escoge la opcion 3 por ejemplo, en la opcion uno nosotros colocamos que el peso igual a 90 y la altura es igual a 1.65 estos valores ya quedan guardadas en las variables correspondientes y al momento de escoger la opcion 3 ya nos rebota el valor directo del valor del indice de la masa corporal.
+<a href="https://ibb.co/Trcx3ps"><img src="https://i.ibb.co/ZNdpDt0/Captura8.png" alt="Captura8" border="0"></a>
