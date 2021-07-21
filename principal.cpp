@@ -1,7 +1,8 @@
+#include <iostream>
 #include <stdlib.h>
 #include <string>
 using namespace std;
-#include "class.cpp"
+#include "class.h"
 int main(){
 	persona joel;
 
@@ -30,10 +31,14 @@ int main(){
 					case 3:
 					joel.mc();
 						break;
+						case 4:
+							joel.guar();
+							break;
+							case 5:
+								joel.rym();
+								break;
 					}
 			  
 	}while(op=0);
-
-	return(0);
 
 }
