@@ -38,7 +38,9 @@ int main(){
 								joel.rym();
 								break;
 					}
-			  
+			  	cout<<endl;
+	cout<<"0 para salir 1 para seguir";
+	cin>>op;
 	}while(op!=0);
 
 }
