@@ -84,3 +84,4 @@ Se escoge la segunda opcion para poder saber la edad de la persona colocando la 
 <a href="https://ibb.co/7Y5WJF1"><img src="https://i.ibb.co/vwGPx8j/Captura7.png" alt="Captura7" border="0"></a>
 Se le coloca la opcion 1 para que se repita el programa y se queden guardadas los valores de peso y altura y en el menu se escoge la opcion 3 por ejemplo, en la opcion uno nosotros colocamos que el peso igual a 90 y la altura es igual a 1.65 estos valores ya quedan guardadas en las variables correspondientes y al momento de escoger la opcion 3 ya nos rebota el valor directo del valor del indice de la masa corporal.
 <a href="https://ibb.co/Trcx3ps"><img src="https://i.ibb.co/ZNdpDt0/Captura8.png" alt="Captura8" border="0"></a>
+
